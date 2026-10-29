@@ -1,0 +1,25 @@
+# Virtual environment
+.venv_cart2insights/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.venv
+#.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+Cart2Insights.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.vscode

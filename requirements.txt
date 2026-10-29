@@ -1,0 +1,25 @@
+# Core data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly==7.0.0
+
+# Statistics
+scipy
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Streamlit dashboard
+streamlit
+
+# PostgreSQL + Python database connectivity
+psycopg2-binary
+SQLAlchemy
+
+# Environment / configuration
+python-dotenv
